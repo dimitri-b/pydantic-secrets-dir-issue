@@ -1,0 +1,6 @@
+# no markdown files, except README
+*.md
+!README.md
+
+__pycache__
+
